@@ -1,16 +1,11 @@
 # Quiz
   ## Table of Contents
 * [Description](#description)
-* [Installation](#installation)
 * [Usage](#usage)
-* [License](#license)
-* [Contributors](#contributors)
 * [Questions](#questions)
 * [Website](#website)
 ## Description
-This is a quiz about CoCoMelon made through Java and APIs
-## Install
-No install needed.
+This is a quiz about CoCoMelon made through JavaScript and APIs
 ## Usage
 Pass the Quiz!
 ## Contributors

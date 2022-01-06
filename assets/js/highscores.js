@@ -6,8 +6,6 @@ function displayHighscores() {
     var highscores = JSON.parse(localStorage.getItem('scores'));
 
     highscores.sort(function(a, b) {
-        // if positive returns, then swtich positions
-        // if zero or nagative, then positions remain
         return b.score - a.score;
     });
 
@@ -19,13 +17,9 @@ function displayHighscores() {
     }
 }
 function clearHighscores (){
-    localStorage.removeItem("highscores");
+    localStorage.removeItem('highscores');
     location.reload();
 }
 document.getElementById("clear").onclick = clearHighscores;
 
 displayHighscores();
-
-// Set up an event listener to clear the scores in localStorage.
-// Check localStorage method on how to remove an item from localStorage
-
