@@ -22,10 +22,10 @@ katieshake27@gmail.com
 
 ## Website
 
-![image](Develop/assets/pictures/coco-quiz-final.png)
+![image](./assets/pictures/coco-quiz-final.png)
 
 
-https://kgendaszek.github.io/code-quiz/
+https://kgendaszek.github.io/quiz/
 
 Check out my other work on GitHub.
 https://github.com/kgendaszek
